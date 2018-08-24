@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487617716 source:c:\users\alan\dropbox\aulas pibic-em\programas codeblocks\exercicio37\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

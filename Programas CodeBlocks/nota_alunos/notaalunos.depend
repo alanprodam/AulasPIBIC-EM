@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487598914 source:c:\users\alan\dropbox\aulas pibic-em\programas codeblocks\notaalunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1487600154 source:c:\users\alan\dropbox\aulas pibic-em\programas codeblocks\nota_alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

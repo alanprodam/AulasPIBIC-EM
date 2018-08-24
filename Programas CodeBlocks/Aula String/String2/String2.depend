@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487181348 source:c:\users\alan\dropbox\aulas pibic-em\programas codeblocks\string2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

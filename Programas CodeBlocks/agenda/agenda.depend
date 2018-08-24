@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489441265 source:c:\users\alan\dropbox\aulas pibic-em\programas codeblocks\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+

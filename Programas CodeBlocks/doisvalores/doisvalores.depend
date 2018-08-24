@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487814507 source:c:\users\alan\dropbox\aulas pibic-em\programas codeblocks\doisvalores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
